@@ -1,0 +1,6 @@
+{
+  "name": "AI Thinking Animation Component",
+  "description": "Infinite, continuous AI thinking and loading canvas animation component extracted from Gradientool visual engine.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
